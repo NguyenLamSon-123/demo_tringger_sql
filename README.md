@@ -100,6 +100,8 @@ Gửi thông báo ngay lập tức khi phát sinh thanh toán phạt.
 
 Việc triển khai logic này cho phép tăng hiệu quả quản lý, giảm sai sót thủ công và nâng cao trải nghiệm người dùng thông qua thông báo nhắc nhở rõ ràng, kịp thời.
 
+xuất file 
+![Uploading image.png…]()
 
 
 
